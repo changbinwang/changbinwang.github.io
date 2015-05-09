@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Changbin's Blog]]></title>
+  <subtitle><![CDATA[Growth Hacker之路]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.changbinwang.com/"/>
+  <updated>2015-05-09T14:50:48.000Z</updated>
+  <id>http://www.changbinwang.com/</id>
+  
+  <author>
+    <name><![CDATA[Owen Wang]]></name>
+    <email><![CDATA[owen2785@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[post]]></title>
+    <link href="http://www.changbinwang.com/2015/05/09/post/"/>
+    <id>http://www.changbinwang.com/2015/05/09/post/</id>
+    <published>2015-05-09T14:50:48.000Z</published>
+    <updated>2015-05-09T14:50:48.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
