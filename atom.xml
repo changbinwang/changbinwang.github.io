@@ -20,7 +20,7 @@
     <id>http://www.changbinwang.com/2015/05/09/post/</id>
     <published>2015-05-09T14:50:48.000Z</published>
     <updated>2015-06-28T07:36:36.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart6844"></div>
+    <content type="html"><![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart6785"></div>
 <script>
   if (!window.google) {
     document.body.innerHTML = 'You need to include the script //google.com/jsapi on your template';
@@ -29,14 +29,14 @@
     (function() {
       google.load('visualization', '1.0', {'packages': ["corechart","geochart","table"]});
       google.setOnLoadCallback(function() {
-        (new google.visualization.BarChart(document.getElementById("googleChart6844"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
+        (new google.visualization.BarChart(document.getElementById("googleChart6785"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
       });
     })();
   }
 </script></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart6844"></div>
+    <![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart6785"></div>
 <script>]]>
     </summary>
     
