@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Growth Hacker之路]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.changbinwang.com/"/>
-  <updated>2015-05-09T14:50:48.000Z</updated>
+  <updated>2015-06-28T04:05:10.000Z</updated>
   <id>http://www.changbinwang.com/</id>
   
   <author>
@@ -15,14 +15,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[post]]></title>
+    <title><![CDATA[This is test post]]></title>
     <link href="http://www.changbinwang.com/2015/05/09/post/"/>
     <id>http://www.changbinwang.com/2015/05/09/post/</id>
     <published>2015-05-09T14:50:48.000Z</published>
-    <updated>2015-05-09T14:50:48.000Z</updated>
-    <content type="html"></content>
+    <updated>2015-06-28T04:05:10.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code></p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code></p>
+]]>
     </summary>
     
   </entry>
