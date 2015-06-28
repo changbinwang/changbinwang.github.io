@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Growth Hacker之路]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.changbinwang.com/"/>
-  <updated>2015-06-28T07:50:59.000Z</updated>
+  <updated>2015-06-28T07:53:03.000Z</updated>
   <id>http://www.changbinwang.com/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <link href="http://www.changbinwang.com/2015/05/09/post/"/>
     <id>http://www.changbinwang.com/2015/05/09/post/</id>
     <published>2015-05-09T14:50:48.000Z</published>
-    <updated>2015-06-28T07:50:59.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart950"></div>
+    <updated>2015-06-28T07:53:03.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart4624"></div>
 <script>
   if (!window.google) {
     document.body.innerHTML = 'You need to include the script //google.com/jsapi on your template';
@@ -29,16 +29,15 @@
     (function() {
       google.load('visualization', '1.0', {'packages': ["corechart","geochart","table"]});
       google.setOnLoadCallback(function() {
-        (new google.visualization.AreaCHart(document.getElementById("googleChart950"))).draw(google.visualization.arrayToDataTable([['Year', 'Sales', 'Expenses'],[  '2013',  1000,      400],[  '2014',  1170,      460],[  '2015',  660,       1120],[  '2016',  1030,      540]]),{"hAxis":{"title":"Year","titleTextStyle":{"color":"#333"}},"vAxis":{"minValue":0},"title":"Title for the Graph","width":"[width","height":"[height]]"});
+        (new google.visualization.AreaChart(document.getElementById("googleChart4624"))).draw(google.visualization.arrayToDataTable([['Year', 'Sales', 'Expenses'],[  '2013',  1000,      400],[  '2014',  1170,      460],[  '2015',  660,       1120],[  '2016',  1030,      540]]),{"hAxis":{"title":"Year","titleTextStyle":{"color":"#333"}},"vAxis":{"minValue":0},"title":"Title for the Graph","width":"[width","height":"[height]]"});
       });
     })();
   }
 </script></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart950"></div>
-<script>
-]]>
+    <![CDATA[<h3 id="This_is_test_post">This is test post</h3><p><code>print(&quot;Hello World&quot;)</code><br><div id="googleChart4624"></div>
+<script>]]>
     </summary>
     
   </entry>
